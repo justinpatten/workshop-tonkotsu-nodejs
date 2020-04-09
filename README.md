@@ -38,5 +38,5 @@ Run server (defaults to localhost:3000):
 npm start
 ```
 
-Follow the coach instructions and good luck!
+Follow the coach instructions and good luck!!
  
